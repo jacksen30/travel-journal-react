@@ -1,5 +1,7 @@
 import { useState } from 'react'
 import Header from "./components/Header"
+import data from "./data"
+
 import './App.css'
 
 function App() {
